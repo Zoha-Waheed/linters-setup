@@ -1,1 +1,1 @@
-This must be ignored by git.
+This must be ignored.
